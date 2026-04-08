@@ -98,7 +98,6 @@ section {
   border-left: 10px solid black;
   flex-wrap: wrap;
   font-weight: bolder;
-  flex:1 1 300px;
 }
 
 .skill-box div:hover,
